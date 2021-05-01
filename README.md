@@ -3,7 +3,7 @@
 To install the project:
 
 ```
-npx create-next-app [your_site_name] -e https://github.com/smurf1es/gaming-vibes-next
+git clone https://github.com/smurf1es/gaming-vibes-next.git [your-dir-name]
 ```
 
 ### Image Credit (for use in project)
