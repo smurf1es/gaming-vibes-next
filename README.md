@@ -1,6 +1,6 @@
 ### Getting Started
 
-To install the starter project:
+To install the project:
 
 ```
 npx create-next-app [your_site_name] -e https://github.com/smurf1es/gaming-vibes-next
